@@ -1,11 +1,11 @@
 #sobre mim
 
 ## editando o perfil
-
+## meu gmail renan.butkus@escola.pr.gov.br
 ###### teste
 
--ola , eu sou @naneralv
-- 👀 I’m interested in ...
+-ola , eu sou @renan
+- eu estou recentemente aprentendo a progama
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
