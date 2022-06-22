@@ -2,11 +2,12 @@
 
 ## editando o perfil
 ## meu gmail renan.butkus@escola.pr.gov.br
-###### teste
+######
 
--ola , eu sou @renan
-- eu estou recentemente aprentendo a progama
-- 🌱 I’m currently learning ...
+**ola, eu sou renan**
+- 👍eu estou interasado em apreder nova liguagens
+- 👀eu estou interessado em aprender novas linguagens de programaçao 
+- 🌱 eu estou recentemente aprendendo a programar na  lingua java script e scratch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
